@@ -1,11 +1,16 @@
 # 2023 Software Engineering Capstone Project
 ## 프로그래밍 과제 채점 및 유사도 검사 강의 보조 시스템 : CODA
 
+### Project Preview
+
+![preview](https://raw.githubusercontent.com/jbnu-coda/.github/main/profile/images/preview.png)
+
 ### Link
 
 - [Front-end](https://github.com/jbnu-coda/coda-frontend)
 - [Back-end](https://github.com/jbnu-coda/coda-backend)
-- [Diagram](https://github.com/jbnu-coda/coda-diagram)
+- [Use-Case Diagram](https://github.com/jbnu-coda/coda-diagram)
+- [ERD Diagram](https://www.erdcloud.com/team/MWzEjYDkxGj6Pn2Rg)
 - [Code Templates](https://github.com/jbnu-coda/coda-code-templates)
 
 ### People
